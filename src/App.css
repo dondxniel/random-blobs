@@ -30,9 +30,89 @@
 
 @keyframes App-logo-spin {
   from {
-    transform: rotate(0deg);
+    /* transform: rotate(0deg); */
   }
   to {
-    transform: rotate(360deg);
+    /* transform: rotate(360deg); */
   }
+}
+
+.blob-1 {
+  width: 400px;
+  height: 400px;
+  background: linear-gradient(135deg, #6e45e1 0%, #88d3ce 100%);
+  border-radius: 60% 40% 50% 70%;
+  /* transform: rotate(10deg); */
+}
+
+.blob-2 {
+  width: 400px;
+  height: 400px;
+  background: linear-gradient(135deg, #6e45e1 0%, #88d3ce 100%);
+  border-radius: 70% 50% 30% 60%;
+  /* transform: rotate(-50deg); */
+}
+
+.blob-3 {
+  width: 400px;
+  height: 400px;
+  background: linear-gradient(135deg, #6e45e1 0%, #88d3ce 100%);
+  border-radius: 40% 70% 60% 50%;
+  /* transform: rotate(100deg); */
+}
+
+.blob-4 {
+  width: 400px;
+  height: 400px;
+  background: linear-gradient(135deg, #6e45e1 0%, #88d3ce 100%);
+  border-radius: 50% 30% 70% 40%;
+  /* transform: rotate(-200deg); */
+}
+
+.blob-5 {
+  width: 400px;
+  height: 400px;
+  background: linear-gradient(135deg, #6e45e1 0%, #88d3ce 100%);
+  border-radius: 60% 60% 40% 70%;
+  /* transform: rotate(360deg); */
+}
+
+.blob-6 {
+  width: 400px;
+  height: 400px;
+  background: linear-gradient(135deg, #6e45e1 0%, #88d3ce 100%);
+  border-radius: 70% 40% 50% 60%;
+  /* transform: rotate(-240deg); */
+}
+
+.blob-7 {
+  width: 400px;
+  height: 400px;
+  background: linear-gradient(135deg, #6e45e1 0%, #88d3ce 100%);
+  border-radius: 50% 60% 60% 40%;
+  /* transform: rotate(-200deg); */
+}
+
+.blob-8 {
+  width: 400px;
+  height: 400px;
+  background: linear-gradient(135deg, #6e45e1 0%, #88d3ce 100%);
+  border-radius: 40% 50% 70% 60%;
+  /* transform: rotate(-120deg); */
+}
+
+.blob-9 {
+  width: 400px;
+  height: 400px;
+  background: linear-gradient(135deg, #6e45e1 0%, #88d3ce 100%);
+  border-radius: 60% 50% 50% 40%;
+  /* transform: rotate(200deg); */
+}
+
+.blob-10 {
+  width: 400px;
+  height: 400px;
+  background: linear-gradient(135deg, #6e45e1 0%, #88d3ce 100%);
+  border-radius: 70% 30% 60% 50%;
+  /* transform: rotate(-20deg); */
 }
